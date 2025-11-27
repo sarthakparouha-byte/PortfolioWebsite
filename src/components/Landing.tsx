@@ -1,10 +1,7 @@
 import { PropsWithChildren } from "react";
 import "./styles/Landing.css";
-import { config } from "../config";
 
 const Landing = ({ children }: PropsWithChildren) => {
-  const firstName = "SARTHAK";
-  const lastName = "PAROUHA";
 
   return (
     <>
